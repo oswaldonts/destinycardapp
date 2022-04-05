@@ -1,0 +1,92 @@
+[
+  {
+      "name": "Veritas Cowl",
+      "icon": "/common/destiny2_content/icons/869bf449aa4b4591daaad3f4011ae08b.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/3316852407.jpg",
+      "text": "\"Life is lies. Comfort? Justice? Love? They're things we made up. Don't make the mistake of assuming true and false are the same as good and bad. What's important is being able to tell them apart.\" —Omar Saint Croix, Hidden handler",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Helmet Armor",
+      "class": "Hunter",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  },
+  {
+      "name": "Veritas Grips",
+      "icon": "/common/destiny2_content/icons/34c332c4eebd0bdd3955cf738dd686a3.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/2390366526.jpg",
+      "text": "\"Truth is difficult. And that's fine. I don't trust anyone who doesn't like a challenge.\" —Chul Sobong, Hidden instructor",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Gauntlets Armor",
+      "class": "Hunter",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  },
+  {
+      "name": "Veritas Vest",
+      "icon": "/common/destiny2_content/icons/c40e82ccfb9eb78eca826ab7d5eb78cd.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/1660918514.jpg",
+      "text": "\"You'll never know truth with real certainty. All you can do is hew away at preconception with the facts and pray that whatever shape's left at the end is a reasonable facsimile.\" —Dagget-4, Hidden analyst",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Chest Armor",
+      "class": "Hunter",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  },
+  {
+      "name": "Veritas Strides",
+      "icon": "/common/destiny2_content/icons/38df1b7261514cbed927785d39275646.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/2809748888.jpg",
+      "text": "\"Truth is a sunrise, kid. It's pretty, and it fits great in poetry, but in the end, it don't give a damn about you getting burned.\" —Paris Shaw, Hidden investigator",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Leg Armor",
+      "class": "Hunter",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  },
+  {
+      "name": "Veritas Cloak",
+      "icon": "/common/destiny2_content/icons/29802facf195cda628172f25b03d0668.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/2297736067.jpg",
+      "text": "\"You need to seek truth out. It's small, and it's ugly, and it's easy to miss. And it's also the only thing in this universe you can orient yourself by.\" —Hsei-22, Hunter",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Class Armor",
+      "class": "Hunter",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  }
+]

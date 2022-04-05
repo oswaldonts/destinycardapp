@@ -1,0 +1,92 @@
+[
+  {
+      "name": "Veritas Helm",
+      "icon": "/common/destiny2_content/icons/28d98f2ee2e769b8e522f32c90e69fe2.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/2126560579.jpg",
+      "text": "\"Life is lies. Comfort? Justice? Love? They're things we made up. Don't make the mistake of assuming true and false are the same as good and bad. What's important is being able to tell them apart.\" —Omar Saint Croix, Hidden handler",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Helmet Armor",
+      "class": "Titan",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  },
+  {
+      "name": "Veritas Gauntlets",
+      "icon": "/common/destiny2_content/icons/636e0766d557df796d11fac48d64d2d8.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/2798065170.jpg",
+      "text": "\"Truth is difficult. And that's fine. I don't trust anyone who doesn't like a challenge.\" —Chul Sobong, Hidden instructor",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Gauntlets Armor",
+      "class": "Titan",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  },
+  {
+      "name": "Veritas Plate",
+      "icon": "/common/destiny2_content/icons/1b167e332549f1e9df7d8248a6ad7fbe.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/1320143318.jpg",
+      "text": "\"You'll never know truth with real certainty. All you can do is hew away at preconception with the facts and pray that whatever shape's left at the end is a reasonable facsimile.\" —Dagget-4, Hidden analyst",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Chest Armor",
+      "class": "Titan",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  },
+  {
+      "name": "Veritas Greaves",
+      "icon": "/common/destiny2_content/icons/f42046435b14b396c2494a7c6e470369.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/3199406764.jpg",
+      "text": "\"Truth is a sunrise, kid. It's pretty and it fits great in poetry, but in the end, it don't give a damn about you getting burned.\" —Paris Shaw, Hidden investigator",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Leg Armor",
+      "class": "Titan",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  },
+  {
+      "name": "Veritas Mark",
+      "icon": "/common/destiny2_content/icons/16f4c75576cd1d1678939d666f84ce56.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/649770495.jpg",
+      "text": "\"The truth outlives us. You can put a bullet through my heart and win an argument, but it doesn't make your account any more or less honest.\" —Amrit Vo, Titan",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Class Armor",
+      "class": "Titan",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  }
+]

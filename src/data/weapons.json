@@ -1,0 +1,92 @@
+[
+  {
+      "name": "The Enigma",
+      "icon": "/common/destiny2_content/icons/c85736c0519708eae6bcf5f2d73fd012.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/2595497736.jpg",
+      "text": "A weapon forged from an ancient memory, purpose-built for your hand.",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "Special",
+          "icon": "/common/destiny2_content/icons/b6d3805ca8400272b7ee7935b0b75c79.png"
+      },
+      "type": "Weapon",
+      "subType": "Glaive",
+      "class": "",
+      "damageType": {
+          "name": "Void",
+          "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_ceb2f6197dccf3958bb31cc783eb97a0.png"
+      }
+  },
+  {
+      "name": "Edge of Action",
+      "icon": "/common/destiny2_content/icons/c0c030e9553de314f3f9892f27d85557.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/2535142413.jpg",
+      "text": "An echo of an ancient weapon, forged from a memory of strength.",
+      "tier": "Exotic",
+      "ammoType": {
+          "name": "Special",
+          "icon": "/common/destiny2_content/icons/b6d3805ca8400272b7ee7935b0b75c79.png"
+      },
+      "type": "Weapon",
+      "subType": "Glaive",
+      "class": "Titan",
+      "damageType": {
+          "name": "Void",
+          "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_ceb2f6197dccf3958bb31cc783eb97a0.png"
+      }
+  },
+  {
+      "name": "Edge of Concurrence",
+      "icon": "/common/destiny2_content/icons/d16148d2696fab485de8dc0cfb407cd7.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/542203595.jpg",
+      "text": "An echo of an ancient weapon, forged from a memory of ambition.",
+      "tier": "Exotic",
+      "ammoType": {
+          "name": "Special",
+          "icon": "/common/destiny2_content/icons/b6d3805ca8400272b7ee7935b0b75c79.png"
+      },
+      "type": "Weapon",
+      "subType": "Glaive",
+      "class": "Hunter",
+      "damageType": {
+          "name": "Arc",
+          "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_092d066688b879c807c3b460afdd61e6.png"
+      }
+  },
+  {
+      "name": "Edge of Intent",
+      "icon": "/common/destiny2_content/icons/b8f284b625fdb62e8be2701da47adcfd.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/14194600.jpg",
+      "text": "An echo of an ancient weapon, forged from a memory of cunning.",
+      "tier": "Exotic",
+      "ammoType": {
+          "name": "Special",
+          "icon": "/common/destiny2_content/icons/b6d3805ca8400272b7ee7935b0b75c79.png"
+      },
+      "type": "Weapon",
+      "subType": "Glaive",
+      "class": "Warlock",
+      "damageType": {
+          "name": "Solar",
+          "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_2a1773e10968f2d088b97c22b22bba9e.png"
+      }
+  },
+  {
+      "name": "Lubrae's Ruin",
+      "icon": "/common/destiny2_content/icons/9a217f52549e480bb82ef854f9ac2414.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/2534546147.jpg",
+      "text": "Shape: Shattered",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "Special",
+          "icon": "/common/destiny2_content/icons/b6d3805ca8400272b7ee7935b0b75c79.png"
+      },
+      "type": "Weapon",
+      "subType": "Glaive",
+      "class": "",
+      "damageType": {
+          "name": "Solar",
+          "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_2a1773e10968f2d088b97c22b22bba9e.png"
+      }
+  }
+]

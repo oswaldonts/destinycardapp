@@ -1,0 +1,92 @@
+[
+  {
+      "name": "Veritas Hood",
+      "icon": "/common/destiny2_content/icons/b04d2449deb8e91df04c69974251b8ab.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/1795262004.jpg",
+      "text": "\"Life is lies. Comfort? Justice? Love? They're things we made up. Don't make the mistake of assuming true and false are the same as good and bad. What's important is being able to tell them apart.\" —Omar Saint Croix, Hidden handler",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Helmet Armor",
+      "class": "Warlock",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  },
+  {
+      "name": "Veritas Gloves",
+      "icon": "/common/destiny2_content/icons/a0488a1ab3dadf4157a3bca770569751.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/201529677.jpg",
+      "text": "\"Truth is difficult. And that's fine. I don't trust anyone who doesn't like a challenge.\" —Chul Sobong, Hidden instructor",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Gauntlets Armor",
+      "class": "Warlock",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  },
+  {
+      "name": "Veritas Robe",
+      "icon": "/common/destiny2_content/icons/57fb7321b98d5b9041d375a2cd34807d.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/4115572467.jpg",
+      "text": "\"You'll never know truth with real certainty. All you can do is hew away at preconception with the facts and pray that whatever shape's left at the end is a reasonable facsimile.\" —Dagget-4, Hidden analyst",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Chest Armor",
+      "class": "Warlock",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  },
+  {
+      "name": "Veritas Boots",
+      "icon": "/common/destiny2_content/icons/525d1642085433128d1555dadbc18b20.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/872328719.jpg",
+      "text": "\"Truth is a sunrise, kid. It's pretty and it fits great in poetry, but in the end, it don't give a damn about you getting burned.\" —Paris Shaw, Hidden investigator",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Leg Armor",
+      "class": "Warlock",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  },
+  {
+      "name": "Veritas Bond",
+      "icon": "/common/destiny2_content/icons/67dfec1fc8acf2dbba341ba9d765b1a7.jpg",
+      "screenshot": "/common/destiny2_content/screenshots/2026031146.jpg",
+      "text": "\"Lies are manufactured. Truth grows naturally… with or without a gardener.\" —Nayyir Gimenez, Warlock",
+      "tier": "Legendary",
+      "ammoType": {
+          "name": "",
+          "icon": ""
+      },
+      "type": "Armor",
+      "subType": "Class Armor",
+      "class": "Warlock",
+      "damageType": {
+          "name": "",
+          "icon": ""
+      }
+  }
+]
