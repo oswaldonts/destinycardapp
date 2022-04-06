@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/destinycardapp/static/css/main.9e4ed545.css",
-    "main.js": "/destinycardapp/static/js/main.1ad2169d.js",
+    "main.js": "/destinycardapp/static/js/main.6732cc3b.js",
     "static/media/titan-trinity-shader-2.jpg": "/destinycardapp/static/media/titan-trinity-shader-2.fcb63c2e162146f2e77b.jpg",
     "static/media/warlock-trinity-shader-2.jpg": "/destinycardapp/static/media/warlock-trinity-shader-2.203defaf082d15a54744.jpg",
     "static/media/hunter-trinity-shader-2.jpg": "/destinycardapp/static/media/hunter-trinity-shader-2.f4ed6503329190d0fa41.jpg",
@@ -12,10 +12,10 @@
     "static/media/helmet.svg": "/destinycardapp/static/media/helmet.80633fde0ca6f459d0dae5bf9c407c4a.svg",
     "static/media/leg.svg": "/destinycardapp/static/media/leg.0ad30f8be7922b895bb6577d8dbe9dad.svg",
     "main.9e4ed545.css.map": "/destinycardapp/static/css/main.9e4ed545.css.map",
-    "main.1ad2169d.js.map": "/destinycardapp/static/js/main.1ad2169d.js.map"
+    "main.6732cc3b.js.map": "/destinycardapp/static/js/main.6732cc3b.js.map"
   },
   "entrypoints": [
     "static/css/main.9e4ed545.css",
-    "static/js/main.1ad2169d.js"
+    "static/js/main.6732cc3b.js"
   ]
 }
