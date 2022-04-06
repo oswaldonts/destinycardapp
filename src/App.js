@@ -7,10 +7,10 @@ import Card from './components/Card';
 import CardModal from './CardModal';
 import CardIcon from './CardIcon';
 
-import weaponsData from './data/weapons.json';
-import titanArmorData from './data/titanArmor.json';
-import hunterArmorData from './data/hunterArmor.json';
-import warlockArmorData from './data/warlockArmor.json';
+// import weaponsData from './data/weapons.json';
+// import titanArmorData from './data/titanArmor.json';
+// import hunterArmorData from './data/hunterArmor.json';
+// import warlockArmorData from './data/warlockArmor.json';
 
 function App() {
   const urlBase = "https://www.bungie.net";
@@ -70,47 +70,47 @@ function App() {
 
   useEffect(() => {
     async function fetchData() {
-      // const weapons = 
-      //   await axios.get('http://localhost:3002/inventoryItems?itemType=3&classType=3')
-      //     .then(res => res.data)
-      //     .catch(error => {
-      //       console.log(error);
-      //       alert("could not load the items");
+      const apiUrl = 'https://destinycardapi.azurewebsites.net';
+      
+      const weaponsData = 
+        await axios.get(`${apiUrl}/inventoryItems?itemType=3&classType=3`)
+          .then(res => res.data)
+          .catch(error => {
+            console.log(error);
+            alert("could not load the items");
 
-      //       return [];
-      //     });
+            return [];
+          });
 
-      //     console.log(weapons);
+      const titanArmorData = 
+        await axios.get(`${apiUrl}/inventoryItems?itemType=2&classType=0`)
+          .then(res => res.data)
+          .catch(error => {
+            console.log(error);
+            alert("could not load the items");
 
-      // const titanArmor = 
-      //   await axios.get('http://localhost:3002/inventoryItems?itemType=2&classType=0')
-      //     .then(res => res.data)
-      //     .catch(error => {
-      //       console.log(error);
-      //       alert("could not load the items");
+            return [];
+          });
 
-      //       return [];
-      //     });
+      const hunterArmorData = 
+        await axios.get(`${apiUrl}/inventoryItems?itemType=2&classType=1`)
+          .then(res => res.data)
+          .catch(error => {
+            console.log(error);
+            alert("could not load the items");
 
-      // const hunterArmor = 
-      //   await axios.get('http://localhost:3002/inventoryItems?itemType=2&classType=1')
-      //     .then(res => res.data)
-      //     .catch(error => {
-      //       console.log(error);
-      //       alert("could not load the items");
+            return [];
+          });
 
-      //       return [];
-      //     });
+      const warlockArmorData = 
+        await axios.get(`${apiUrl}/inventoryItems?itemType=2&classType=2`)
+          .then(res => res.data)
+          .catch(error => {
+            console.log(error);
+            alert("could not load the items");
 
-      // const warlockArmor = 
-      //   await axios.get('http://localhost:3002/inventoryItems?itemType=2&classType=2')
-      //     .then(res => res.data)
-      //     .catch(error => {
-      //       console.log(error);
-      //       alert("could not load the items");
-
-      //       return [];
-      //     });
+            return [];
+          });
       
       setWeapons(weaponsData);
       setTitanArmors(titanArmorData);
