@@ -73,7 +73,7 @@ function App() {
       const apiUrl = 'https://destinycardapi.azurewebsites.net';
       
       const weaponsData = 
-        await axios.get(`${apiUrl}/inventoryItems?itemType=3&classType=3`)
+        await axios.get(`${apiUrl}/inventoryItems?itemType=3`)
           .then(res => res.data)
           .catch(error => {
             console.log(error);
