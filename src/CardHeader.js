@@ -2,9 +2,9 @@ import React from 'react';
 import ArmorIcon from './components/ArmorIcon';
 import WeaponIcon from './components/WeaponIcon';
 
-import titanScreenshot from './assets/classes/titan-trinity-shader-2.jpg'
-import hunterScreenshot from './assets/classes/hunter-trinity-shader-2.jpg'
-import warlockScreenshot from './assets/classes/warlock-trinity-shader-2.jpg'
+import titanScreenshot from './assets/classes/titan-trinity-shader.jpg'
+import hunterScreenshot from './assets/classes/hunter-trinity-shader.jpg'
+import warlockScreenshot from './assets/classes/warlock-trinity-shader.jpg'
 
 function CardHeader(props) {
   const {item, urlBase} = props;
