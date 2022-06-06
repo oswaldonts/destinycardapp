@@ -76,7 +76,7 @@ function App() {
   useEffect(() => {
     console.log(isVisibleMessageModal);
     async function fetchData() {
-      const apiUrl = 'https://destinycardapi.azurewebsites.net/api/destiny';
+      const apiUrl = 'https://destinycardapi.herokuapp.com/api/destiny';
       
       // setTimeout(async () => {
         const weaponsData = 
