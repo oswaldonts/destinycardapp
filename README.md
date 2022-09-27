@@ -2,7 +2,7 @@
 
 This is a project to show the information from Destiny 2 items like cards.
 
-To open the project use the following link [git push -u origin main.github.io/destinycardapp](https://oswalthz.github.io/destinycardapp).
+To open the project use the following link [oswalthz.github.io/destinycardapp](https://oswalthz.github.io/destinycardapp).
 
 This app worked together with [Destiny Card Api](https://github.com/oswaldtzh/destinycardapi).
 
